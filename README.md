@@ -8,3 +8,5 @@ La aplicación web ofrece las siguientes funcionalidades:
 Visualización de un histograma del odómetro de los vehículos en venta.
 Visualización de un gráfico de dispersión que muestra la relación entre el odómetro y el precio de los vehículos en venta.
 Los usuarios pueden seleccionar las funcionalidades que desean utilizar mediante casillas de verificación y la aplicación generará los gráficos correspondientes de forma dinámica.
+
+Aplicación: https://vehicles-ydb9.onrender.com
